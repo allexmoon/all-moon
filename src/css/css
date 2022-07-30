@@ -1,0 +1,30 @@
+body {
+        background-color: rgb(255, 255, 255);
+        display:grid;
+    }
+    h1 {
+        color: rgb(20, 221, 228);
+        text-align: center;
+        }
+    h2 {
+        color:rgb(0, 0, 0);
+        text-align: center;
+    }
+    h3 {
+        color:antiquewhite
+    }
+    h4 {
+        color:blueviolet
+    }
+    p1 {
+        color:brown
+    }
+    p2 {
+        color:rgb(35, 189, 15)
+    }
+    ul1 {
+        color: khaki;
+    }
+    ul2 {
+        color:paleturquoise;
+    }
